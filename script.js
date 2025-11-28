@@ -24,19 +24,3 @@ btn.addEventListener("click",(e)=>{
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-function createlm(){
-  let total=  document.createElement("p");
-    total.innerHTML=`your age is`
-    box.append(total)
-}
